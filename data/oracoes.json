@@ -1,51 +1,93 @@
 [
   {
-    "id": "pai-nosso",
-    "titulo": "Pai-Nosso",
-    "pt": "Pai nosso que estais nos céus, santificado seja o vosso nome; venha a nós o vosso Reino; seja feita a vossa vontade, assim na terra como no céu. O pão nosso de cada dia nos dai hoje; perdoai-nos as nossas ofensas, assim como nós perdoamos a quem nos tem ofendido; e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.",
-    "la": "Pater noster, qui es in caelis, sanctificetur nomen tuum; adveniat regnum tuum; fiat voluntas tua, sicut in caelo et in terra. Panem nostrum quotidianum da nobis hodie; et dimitte nobis debita nostra, sicut et nos dimittimus debitoribus nostris; et ne nos inducas in tentationem, sed libera nos a malo. Amen.",
-    "tags": ["basica", "evangelho", "diaria"]
-  },
-  {
-    "id": "ave-maria",
-    "titulo": "Ave-Maria",
-    "pt": "Ave Maria, cheia de graça, o Senhor é convosco; bendita sois vós entre as mulheres, e bendito é o fruto do vosso ventre, Jesus. Santa Maria, Mãe de Deus, rogai por nós, pecadores, agora e na hora da nossa morte. Amém.",
-    "la": "Ave Maria, gratia plena, Dominus tecum. Benedicta tu in mulieribus, et benedictus fructus ventris tui, Iesus. Sancta Maria, Mater Dei, ora pro nobis peccatoribus, nunc et in hora mortis nostrae. Amen.",
-    "tags": ["mariana", "diaria", "rosario"]
+    "id": "sinal-da-cruz",
+    "titulo": "Sinal da Cruz",
+    "pt": "Em nome do Pai, e do Filho, e do Espírito Santo. Amém.",
+    "la": "In nomine Patris, et Filii, et Spiritus Sancti. Amen.",
+    "tags": ["basica", "introducao"]
   },
   {
     "id": "gloria-ao-pai",
     "titulo": "Glória ao Pai",
     "pt": "Glória ao Pai, e ao Filho e ao Espírito Santo, como era no princípio, agora e sempre. Amém.",
     "la": "Gloria Patri, et Filio, et Spiritui Sancto, sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.",
-    "tags": ["doxologia", "liturgia", "rosario"]
+    "tags": ["basica", "doxologia"]
   },
   {
-    "id": "creio-apostolico",
-    "titulo": "Creio (Símbolo dos Apóstolos)",
+    "id": "pai-nosso",
+    "titulo": "Pai-Nosso",
+    "pt": "Pai nosso que estais nos céus, santificado seja o vosso nome; venha a nós o vosso Reino; seja feita a vossa vontade, assim na terra como no céu. O pão nosso de cada dia nos dai hoje; perdoai-nos as nossas ofensas, assim como nós perdoamos a quem nos tem ofendido; e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.",
+    "la": "Pater noster, qui es in caelis, sanctificetur nomen tuum; adveniat regnum tuum; fiat voluntas tua, sicut in caelo et in terra. Panem nostrum quotidianum da nobis hodie; et dimitte nobis debita nostra, sicut et nos dimittimus debitoribus nostris; et ne nos inducas in tentationem, sed libera nos a malo. Amen.",
+    "tags": ["basica"]
+  },
+  {
+    "id": "ave-maria",
+    "titulo": "Ave-Maria",
+    "pt": "Ave Maria, cheia de graça, o Senhor é convosco; bendita sois vós entre as mulheres, e bendito é o fruto do vosso ventre, Jesus. Santa Maria, Mãe de Deus, rogai por nós, pecadores, agora e na hora da nossa morte. Amém.",
+    "la": "Ave Maria, gratia plena, Dominus tecum. Benedicta tu in mulieribus, et benedictus fructus ventris tui, Iesus. Sancta Maria, Mater Dei, ora pro nobis peccatoribus, nunc et in hora mortis nostrae. Amen.",
+    "tags": ["basica", "mariana"]
+  },
+  {
+    "id": "credo-apostolos",
+    "titulo": "Credo I – Símbolo dos Apóstolos",
     "pt": "Creio em Deus Pai todo-poderoso, Criador do céu e da terra; e em Jesus Cristo, seu único Filho, nosso Senhor; que foi concebido pelo poder do Espírito Santo; nasceu da Virgem Maria; padeceu sob Pôncio Pilatos; foi crucificado, morto e sepultado; desceu à mansão dos mortos; ressuscitou ao terceiro dia; subiu aos céus; está sentado à direita de Deus Pai todo-poderoso, donde há de vir a julgar os vivos e os mortos. Creio no Espírito Santo; na santa Igreja católica; na comunhão dos santos; na remissão dos pecados; na ressurreição da carne; na vida eterna. Amém.",
     "la": "Credo in Deum Patrem omnipotentem, Creatorem caeli et terrae; et in Iesum Christum, Filium eius unicum, Dominum nostrum; qui conceptus est de Spiritu Sancto, natus ex Maria Virgine; passus sub Pontio Pilato, crucifixus, mortuus, et sepultus; descendit ad inferos; tertia die resurrexit a mortuis; ascendit ad caelos; sedet ad dexteram Dei Patris omnipotentis; inde venturus est iudicare vivos et mortuos. Credo in Spiritum Sanctum; sanctam Ecclesiam catholicam; sanctorum communionem; remissionem peccatorum; carnis resurrectionem; vitam aeternam. Amen.",
-    "tags": ["credo", "liturgia", "catequese"]
+    "tags": ["basica", "credo"]
+  },
+  {
+    "id": "credo-niceno",
+    "titulo": "Credo II – Símbolo Niceno-Constantinopolitano",
+    "pt": "Creio em um só Deus, Pai todo-poderoso, Criador do céu e da terra, de todas as coisas visíveis e invisíveis. Creio em um só Senhor, Jesus Cristo, Filho unigênito de Deus, nascido do Pai antes de todos os séculos: Deus de Deus, Luz da Luz, Deus verdadeiro de Deus verdadeiro, gerado, não criado, consubstancial ao Pai. Por Ele todas as coisas foram feitas. E por nós, homens, e para nossa salvação, desceu dos céus e se encarnou pelo Espírito Santo, no seio da Virgem Maria, e se fez homem. Também por nós foi crucificado sob Pôncio Pilatos; padeceu e foi sepultado. Ressuscitou ao terceiro dia, conforme as Escrituras, e subiu aos céus, onde está sentado à direita do Pai. De novo há de vir, em sua glória, para julgar os vivos e os mortos; e o seu reino não terá fim. Creio no Espírito Santo, Senhor que dá a vida, e procede do Pai e do Filho; e com o Pai e o Filho é adorado e glorificado: Ele que falou pelos profetas. Creio na Igreja una, santa, católica e apostólica. Professo um só batismo para remissão dos pecados. E espero a ressurreição dos mortos e a vida do mundo que há de vir. Amém.",
+    "la": "Credo in unum Deum, Patrem omnipotentem, factorem caeli et terrae, visibilium omnium et invisibilium. Et in unum Dominum Iesum Christum, Filium Dei unigenitum, et ex Patre natum ante omnia saecula. Deum de Deo, Lumen de Lumine, Deum verum de Deo vero, genitum, non factum, consubstantialem Patri: per quem omnia facta sunt. Qui propter nos homines et propter nostram salutem descendit de caelis. Et incarnatus est de Spiritu Sancto ex Maria Virgine, et homo factus est. Crucifixus etiam pro nobis sub Pontio Pilato; passus et sepultus est. Et resurrexit tertia die, secundum Scripturas. Et ascendit in caelum; sedet ad dexteram Patris. Et iterum venturus est cum gloria, iudicare vivos et mortuos; cuius regni non erit finis. Et in Spiritum Sanctum, Dominum et vivificantem, qui ex Patre Filioque procedit; qui cum Patre et Filio simul adoratur et conglorificatur; qui locutus est per prophetas. Et unam, sanctam, catholicam et apostolicam Ecclesiam. Confiteor unum baptisma in remissionem peccatorum. Et exspecto resurrectionem mortuorum, et vitam venturi saeculi. Amen.",
+    "tags": ["basica", "credo"]
+  },
+  {
+    "id": "gloria-deus-alturas",
+    "titulo": "Glória a Deus nas Alturas",
+    "pt": "Glória a Deus nas alturas, e paz na terra aos homens por Ele amados. Senhor Deus, Rei dos céus, Deus Pai todo-poderoso. Nós Vos louvamos, Vos bendizemos, Vos adoramos, Vos glorificamos, Vos damos graças por Vossa imensa glória. Senhor Jesus Cristo, Filho Unigênito, Senhor Deus, Cordeiro de Deus, Filho de Deus Pai. Vós que tirais o pecado do mundo, tende piedade de nós; Vós que tirais o pecado do mundo, acolhei a nossa súplica; Vós que estais à direita do Pai, tende piedade de nós. Só Vós sois o Santo, só Vós o Senhor, só Vós o Altíssimo, Jesus Cristo, com o Espírito Santo, na glória de Deus Pai. Amém.",
+    "la": "Gloria in excelsis Deo, et in terra pax hominibus bonae voluntatis. Laudamus te, benedicimus te, adoramus te, glorificamus te, gratias agimus tibi propter magnam gloriam tuam. Domine Deus, Rex caelestis, Deus Pater omnipotens. Domine Fili unigenite, Iesu Christe. Domine Deus, Agnus Dei, Filius Patris. Qui tollis peccata mundi, miserere nobis; qui tollis peccata mundi, suscipe deprecationem nostram; qui sedes ad dexteram Patris, miserere nobis. Quoniam tu solus Sanctus, tu solus Dominus, tu solus Altissimus, Iesu Christe, cum Sancto Spiritu: in gloria Dei Patris. Amen.",
+    "tags": ["basica", "liturgia"]
   },
   {
     "id": "salve-rainha",
     "titulo": "Salve-Rainha",
-    "pt": "Salve, Rainha, Mãe de misericórdia, vida, doçura e esperança nossa, salve! A vós bradamos, os degredados filhos de Eva. A vós suspiramos, gemendo e chorando neste vale de lágrimas. Eia, pois, advogada nossa, esses vossos olhos misericordiosos a nós volvei; e, depois deste desterro, mostrai-nos Jesus, bendito fruto do vosso ventre. Ó clemente, ó piedosa, ó doce sempre Virgem Maria. Rogai por nós, Santa Mãe de Deus, para que sejamos dignos das promessas de Cristo. Amém.",
-    "la": "Salve, Regina, Mater misericordiae, vita, dulcedo, et spes nostra, salve. Ad te clamamus, exsules filii Hevae. Ad te suspiramus, gementes et flentes in hac lacrimarum valle. Eia ergo, advocata nostra, illos tuos misericordes oculos ad nos converte; et Iesum, benedictum fructum ventris tui, nobis post hoc exsilium ostende. O clemens, O pia, O dulcis Virgo Maria.",
-    "tags": ["mariana", "rosario"]
+    "pt": "Salve, Rainha, Mãe de misericórdia, vida, doçura e esperança nossa, salve. A Vós bradamos, os degredados filhos de Eva. A Vós suspiramos, gemendo e chorando neste vale de lágrimas. Eia, pois, advogada nossa, esses Vossos olhos misericordiosos a nós volvei; e, depois deste desterro, mostrai-nos Jesus, bendito fruto do Vosso ventre. Ó clemente, ó piedosa, ó doce sempre Virgem Maria. Rogai por nós, Santa Mãe de Deus, para que sejamos dignos das promessas de Cristo. Amém.",
+    "la": "Salve, Regina, Mater misericordiae, vita, dulcedo et spes nostra, salve. Ad te clamamus, exsules filii Hevae. Ad te suspiramus, gementes et flentes in hac lacrimarum valle. Eia ergo, advocata nostra, illos tuos misericordes oculos ad nos converte; et Iesum, benedictum fructum ventris tui, nobis post hoc exsilium ostende. O clemens, O pia, O dulcis Virgo Maria. Ora pro nobis, Sancta Dei Genitrix, ut digni efficiamur promissionibus Christi.",
+    "tags": ["basica", "mariana"]
+  },
+  {
+    "id": "ato-fe",
+    "titulo": "Ato de Fé",
+    "pt": "Meu Deus, creio firmemente em todas as verdades que nos revelastes e que a Santa Igreja nos propõe para crer, porque não Vos podeis enganar nem enganar-nos. Assim creio tudo o que creio, porque Vós o dissestes, Verdade infalível. Amém.",
+    "la": "Deus meus, credo firmiter omnia et singula quae a te revelata sunt et quae sancta Ecclesia catholica proponit credenda, quia tu, Deus, nec falli nec fallere potes. Amen.",
+    "tags": ["basica", "virtudes"]
+  },
+  {
+    "id": "ato-esperanca",
+    "titulo": "Ato de Esperança",
+    "pt": "Meu Deus, espero com firme confiança que, pelos merecimentos de Nosso Senhor Jesus Cristo, me dareis a salvação eterna e as graças necessárias para a alcançar, porque sois infinitamente bom, poderoso e fiel às Vossas promessas. Amém.",
+    "la": "Deus meus, spero firmissima fiducia me, per merita Iesu Christi Domini nostri, vitam aeternam et gratias necessarias ad illam consequendam adepturum, quia tu es infinitus bonus, omnipotens et fidelis in promissis tuis. Amen.",
+    "tags": ["basica", "virtudes"]
+  },
+  {
+    "id": "ato-caridade",
+    "titulo": "Ato de Caridade",
+    "pt": "Meu Deus, amo-Vos de todo o meu coração e sobre todas as coisas, porque sois infinitamente bom e digno de ser amado; e por Vosso amor amo o meu próximo como a mim mesmo. Amém.",
+    "la": "Deus meus, amo te super omnia et ex toto corde, quia es infinite bonus et omni dilectione dignus; et propter te diligo proximum meum sicut me ipsum. Amen.",
+    "tags": ["basica", "virtudes"]
+  },
+  {
+    "id": "eu-pecador",
+    "titulo": "Eu, Pecador",
+    "pt": "Eu, pecador, me confesso a Deus todo-poderoso, à bem-aventurada sempre Virgem Maria, ao bem-aventurado São Miguel Arcanjo, ao bem-aventurado São João Batista, aos santos Apóstolos São Pedro e São Paulo, a todos os Santos, e a vós, irmãos, que pequei muitas vezes por pensamentos, palavras e obras, por minha culpa, minha culpa, minha máxima culpa. Portanto, peço à bem-aventurada sempre Virgem Maria, ao bem-aventurado São Miguel Arcanjo, ao bem-aventurado São João Batista, aos santos Apóstolos São Pedro e São Paulo, a todos os Santos, e a vós, irmãos, que rogueis por mim a Deus, Nosso Senhor. Amém.",
+    "la": "Confiteor Deo omnipotenti, beatae Mariae semper Virgini, beato Michaeli Archangelo, beato Ioanni Baptistae, sanctis Apostolis Petro et Paulo, omnibus Sanctis, et vobis, fratres, quia peccavi nimis cogitatione, verbo et opere: mea culpa, mea culpa, mea maxima culpa. Ideo precor beatam Mariam semper Virginem, beatum Michaelem Archangelum, beatum Ioannem Baptistam, sanctos Apostolos Petrum et Paulum, omnes Sanctos, et vos, fratres, orare pro me ad Dominum Deum nostrum. Amen.",
+    "tags": ["basica", "penitencia"]
   },
   {
     "id": "ato-contricao",
     "titulo": "Ato de Contrição",
-    "pt": "Meu Deus, porque sois infinitamente bom e vos amo de todo o meu coração, pesa-me de vos ter ofendido; e proponho firmemente, com o auxílio da vossa graça, fazer penitência, não tornar a pecar e fugir das ocasiões de pecado. Amém.",
+    "pt": "Meu Deus, porque sois infinitamente bom e Vos amo de todo o meu coração, pesa-me de Vos ter ofendido; e proponho firmemente, com o auxílio da Vossa graça, fazer penitência, não tornar a pecar e fugir das ocasiões de pecado. Amém.",
     "la": "Deus meus, ex toto corde paenitet me omnium meorum peccatorum, quia peccando non solum poenas a te iuste statutas meritus sum, sed praesertim quia te offendi, qui es summum bonum ac dignus qui super omnia diligaris. Ideo firmiter propono, adiuvante gratia tua, de cetero me non peccaturum peccandique occasiones proximas fugiturum. Amen.",
-    "tags": ["confissao", "penitencia"]
-  },
-  {
-    "id": "santo-anjo",
-    "titulo": "Santo Anjo do Senhor",
-    "pt": "Santo Anjo do Senhor, meu zeloso guardador, pois que a ti me confiou a piedade divina, sempre me rege, me guarda, me governa e me ilumina. Amém.",
-    "la": "Angele Dei, qui custos es mei, me tibi commissum pietate superna, illumina, custodi, rege et guberna. Amen.",
-    "tags": ["anjo", "proteção", "diaria"]
+    "tags": ["basica", "penitencia"]
   }
 ]
